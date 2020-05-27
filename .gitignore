@@ -342,3 +342,4 @@ healthchecksdb
 # Everything else
 PasswordLengthTest/
 AesEncryptTest/
+PasswordLengthTest.sln
